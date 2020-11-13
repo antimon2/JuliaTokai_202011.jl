@@ -1,0 +1,1 @@
+julia -e 'using IJulia;installkernel("Julia (4 threads)", env=Dict("JULIA_NUM_THREADS"=>"4"))'

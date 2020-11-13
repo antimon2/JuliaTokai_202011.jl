@@ -1,0 +1,7 @@
+name = "JuliaTokai_202011"
+uuid = "488ce05f-ad02-41a7-a099-398b49255361"
+authors = ["GOTOH Shunsuke <antimon2.me@gmail.com>"]
+version = "0.1.0"
+
+[compat]
+julia = "1.5"
